@@ -2,7 +2,12 @@
   "nativeApps": [
     {
       "name": "SampleApp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
