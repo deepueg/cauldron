@@ -30,7 +30,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.2"
+              "containerVersion": "1.0.3"
             }
           }
         }
