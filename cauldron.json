@@ -55,7 +55,17 @@
                 "codePush": []
               }
             }
-          ]
+          ],
+          "config": {
+            "containerGenerator": {
+              "publishers": [
+                {
+                  "name": "github",
+                  "url": "git@github.com:deepueg/ios-container.git"
+                }
+              ]
+            }
+          }
         }
       ]
     }
