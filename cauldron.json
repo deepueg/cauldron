@@ -66,12 +66,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "publishers": [
-                {
-                  "name": "github",
-                  "url": "git@github.com:deepueg/ios-container.git"
-                }
-              ]
+              "containerVersion": "1.0.0"
             }
           }
         }
