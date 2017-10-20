@@ -18,7 +18,7 @@
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3",
                 "react-native-ernmovie-api-impl@0.0.5",
-                "react-native-ernpetstore-api-impl@0.0.1"
+                "react-native-ernpetstore-api-impl@0.0.2"
               ],
               "miniApps": {
                 "container": [
