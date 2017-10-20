@@ -29,7 +29,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.8",
+              "containerVersion": "1.0.9",
               "publishers": [
                 {
                   "name": "github",
