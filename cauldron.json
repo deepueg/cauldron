@@ -40,37 +40,6 @@
               ]
             }
           }
-        },
-        {
-          "name": "ios",
-          "versions": [
-            {
-              "name": "1.0.0",
-              "ernPlatformVersion": "1000.0.0",
-              "isReleased": false,
-              "binary": null,
-              "yarnlock": "35b8ed49e5b618ffdc492570537c01e5dcbbea9b",
-              "nativeDeps": [
-                "react-native@0.49.3",
-                "react-native-electrode-bridge@1.5.9",
-                "react-native-ernmovie-api@0.0.9",
-                "react-native-ernnavigation-api@0.0.3"
-              ],
-              "miniApps": {
-                "container": [
-                  "movielistminiapp@0.0.7",
-                  "moviedetailsminiapp@0.0.6"
-                ],
-                "codePush": []
-              },
-              "containerVersion": "1.0.1"
-            }
-          ],
-          "config": {
-            "containerGenerator": {
-              "containerVersion": "1.0.1"
-            }
-          }
         }
       ]
     }
