@@ -61,7 +61,8 @@
                   "movielistminiapp@0.0.7"
                 ],
                 "codePush": []
-              }
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
