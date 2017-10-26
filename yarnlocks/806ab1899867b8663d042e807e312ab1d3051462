@@ -2256,6 +2256,13 @@ morgan@~1.6.1:
     on-finished "~2.3.0"
     on-headers "~1.0.0"
 
+moviedetailsminiapp@0.0.6:
+  version "0.0.6"
+  resolved "http://npme.walmart.com/moviedetailsminiapp/-/moviedetailsminiapp-0.0.6.tgz#aef3ae0d3613499c7e5a2157c0a1b5d059c58ab3"
+  dependencies:
+    react "16.0.0-beta.5"
+    react-native "0.49.3"
+
 movielistminiapp@0.0.7:
   version "0.0.7"
   resolved "http://npme.walmart.com/movielistminiapp/-/movielistminiapp-0.0.7.tgz#4a25860e1a72e19e01dbca9b5c98a562044d1156"
