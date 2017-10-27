@@ -30,17 +30,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.20",
-              "publishers": [
-                {
-                  "name": "github",
-                  "url": "git@github.com:deepueg/android-container.git"
-                },
-                {
-                  "name": "maven",
-                  "url": "file:~/.m2/repository"
-                }
-              ]
+              "containerVersion": "1.0.20"
             }
           }
         },
