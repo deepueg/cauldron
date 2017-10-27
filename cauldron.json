@@ -36,6 +36,10 @@
                 {
                   "name": "github",
                   "url": "git@github.com:deepueg/android-container.git"
+                },
+                {
+                  "name": "maven",
+                  "url": "file://~/.m2/repository"
                 }
               ]
             }
