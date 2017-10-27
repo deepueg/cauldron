@@ -11,7 +11,7 @@
               "ernPlatformVersion": "1000.0.0",
               "isReleased": false,
               "binary": null,
-              "yarnlock": "99eb9ee21768d9190eb013395e14d60fe46774ed",
+              "yarnlock": "e3a9f69100f43bd2fb7ea29be5a53e5681d68338",
               "nativeDeps": [
                 "react-native@0.49.3",
                 "react-native-electrode-bridge@1.5.9",
