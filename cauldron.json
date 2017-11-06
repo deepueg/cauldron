@@ -54,8 +54,8 @@
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3",
-                "react-native-ernpetstore-api-impl@0.0.3",
-                "react-native-ernmovie-api-impl"
+                "react-native-ernmovie-api-impl",
+                "react-native-ernpetstore-api-impl@0.0.4"
               ],
               "miniApps": {
                 "container": [
@@ -64,12 +64,12 @@
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.3"
+              "containerVersion": "1.0.4"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.3",
+              "containerVersion": "1.0.4",
               "publishers": [
                 {
                   "name": "github",
