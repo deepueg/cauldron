@@ -56,7 +56,7 @@
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3",
                 "react-native-ernmovie-api-impl",
-                "react-native-ernpetstore-api-impl@0.0.4"
+                "react-native-ernpetstore-api-impl@0.0.5"
               ],
               "miniApps": {
                 "container": [
@@ -65,12 +65,12 @@
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.4"
+              "containerVersion": "1.0.5"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.4",
+              "containerVersion": "1.0.5",
               "publishers": [
                 {
                   "name": "github",
