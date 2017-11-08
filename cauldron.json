@@ -49,7 +49,7 @@
               "ernPlatformVersion": "1000.0.0",
               "isReleased": false,
               "binary": null,
-              "yarnlock": "88205d42e9636f3565fd4f61c715d7bdaf8f3051",
+              "yarnlock": "2e23de21fee8f97cc9f437ea3b7b6cd39158fcf3",
               "nativeDeps": [
                 "react-native@0.49.3",
                 "react-native-electrode-bridge@1.5.9",
@@ -65,12 +65,12 @@
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.6"
+              "containerVersion": "1.0.7"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.6",
+              "containerVersion": "1.0.7",
               "publishers": [
                 {
                   "name": "github",
