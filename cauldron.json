@@ -65,12 +65,12 @@
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.11"
+              "containerVersion": "1.0.12"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.11",
+              "containerVersion": "1.0.12",
               "publishers": [
                 {
                   "name": "github",
