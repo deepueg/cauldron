@@ -11,13 +11,14 @@
               "ernPlatformVersion": "1000.0.0",
               "isReleased": false,
               "binary": null,
-              "yarnlock": "6c6c98cca1f072371f234018ca836506c6be960c",
+              "yarnlock": "ce4ec4039cec0c94297a591b0d024468a1041de5",
               "nativeDeps": [
                 "react-native@0.49.3",
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3",
-                "react-native-ernpetstore-api-impl@0.0.4"
+                "react-native-ernpetstore-api-impl@0.0.4",
+                "react-native-ernmovie-api-impl-js"
               ],
               "miniApps": {
                 "container": [
@@ -25,7 +26,7 @@
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.30",
+              "containerVersion": "1.0.31",
               "yarnLocks": {
                 "container": "6f6133b4dbabf55f1bcde5dcd6f4f60c0d087eae"
               }
@@ -33,7 +34,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.30",
+              "containerVersion": "1.0.31",
               "publishers": [
                 {
                   "name": "github",
