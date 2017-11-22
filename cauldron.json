@@ -17,8 +17,7 @@
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3",
-                "react-native-ernpetstore-api-impl@0.0.4",
-                "react-native-ernmovie-api-impl-js"
+                "react-native-ernpetstore-api-impl@0.0.4"
               ],
               "miniApps": {
                 "container": [
