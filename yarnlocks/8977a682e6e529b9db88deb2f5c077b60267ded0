@@ -2681,12 +2681,24 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-electrode-bridge@1.5.9:
+react-native-electrode-bridge@1.5.9, react-native-electrode-bridge@1.5.x:
   version "1.5.9"
   resolved "https://registry.yarnpkg.com/react-native-electrode-bridge/-/react-native-electrode-bridge-1.5.9.tgz#0510c2050e23267524d8dfb52ed7a8e441ae37e0"
   dependencies:
     events "^1.1.1"
     uuid "^3.0.0"
+
+react-native-ernmovie-api-impl-js@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-ernmovie-api-impl-js/-/react-native-ernmovie-api-impl-js-0.0.2.tgz#a8f3aa03bb2f86b88e252ed70eae6232c2257c50"
+  dependencies:
+    react-native-ernmovie-api "0.0.10"
+
+react-native-ernmovie-api@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/react-native-ernmovie-api/-/react-native-ernmovie-api-0.0.10.tgz#afee4c904230850022da09b241d23b2bc84cf469"
+  dependencies:
+    react-native-electrode-bridge "1.5.x"
 
 react-native-ernmovie-api@0.0.9:
   version "0.0.9"
