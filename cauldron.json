@@ -12,7 +12,7 @@
               "isReleased": false,
               "binary": null,
               "yarnlock": "b6ee3d6150ae4d66102a589d38acfe2a645eb414",
-              "containerVersion": "1.0.41",
+              "containerVersion": "1.0.42",
               "yarnLocks": {
                 "container": "9fad79f5a7b30cfb0cd9fce64c805e9968150391"
               },
@@ -35,7 +35,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.41",
+              "containerVersion": "1.0.42",
               "publishers": [
                 {
                   "name": "github",
