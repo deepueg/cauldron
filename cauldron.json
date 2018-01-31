@@ -13,29 +13,29 @@
               "binary": null,
               "yarnlock": "b6ee3d6150ae4d66102a589d38acfe2a645eb414",
               "nativeDeps": [
-                "react-native@0.49.3",
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
-                "react-native-ernnavigation-api@0.0.3",
                 "react-native-ernpetstore-api-impl@0.0.4",
                 "react-native-code-push@5.1.3-beta",
-                "react-native-ernmovie-api-impl@0.0.11"
+                "react-native-ernmovie-api-impl@0.0.11",
+                "react-native-ernnavigation-api@0.0.4",
+                "react-native@0.52.2"
               ],
               "miniApps": {
                 "container": [
-                  "movielistminiapp@0.0.7"
+                  "movielistminiapp@0.0.10"
                 ],
                 "codePush": []
               },
-              "containerVersion": "1.0.40",
+              "containerVersion": "1.0.41",
               "yarnLocks": {
-                "container": "3a860bd9975bbd26fb4618ed660201f57660f182"
+                "container": "9fad79f5a7b30cfb0cd9fce64c805e9968150391"
               }
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.40",
+              "containerVersion": "1.0.41",
               "publishers": [
                 {
                   "name": "github",
