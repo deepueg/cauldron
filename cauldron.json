@@ -1,4 +1,12 @@
 {
+  "config": {
+    "manifest": {
+      "override": {
+        "url": "git@github.com:deepueg/electrode-native-manifest.git",
+        "type": "partial"
+      }
+    }
+  },
   "nativeApps": [
     {
       "name": "SampleApp",
