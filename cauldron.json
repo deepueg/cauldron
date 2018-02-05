@@ -2,8 +2,8 @@
   "config": {
     "manifest": {
       "override": {
-        "url": "git@github.com:electrode-io/electrode-native-manifest.git",
-        "type": "full"
+        "url": "git@github.com:deepueg/electrode-native-manifest.git",
+        "type": "partial"
       }
     }
   },
