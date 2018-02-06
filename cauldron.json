@@ -20,7 +20,7 @@
               "isReleased": false,
               "binary": null,
               "yarnlock": "b6ee3d6150ae4d66102a589d38acfe2a645eb414",
-              "containerVersion": "1.0.45",
+              "containerVersion": "1.0.46",
               "yarnLocks": {
                 "container": "bcf45ad8ddf1f779a06b402d1984ff2cbd489130"
               },
@@ -31,7 +31,8 @@
                   "react-native-code-push@5.1.3-beta",
                   "react-native-ernmovie-api-impl@0.0.11",
                   "react-native-ernnavigation-api@0.0.4",
-                  "react-native@0.52.2"
+                  "react-native@0.52.2",
+                  "react-native-ernpetstore-api-impl@0.0.4"
                 ],
                 "miniApps": [
                   "movielistminiapp@0.0.10"
@@ -42,7 +43,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.45",
+              "containerVersion": "1.0.46",
               "publishers": [
                 {
                   "name": "github",
