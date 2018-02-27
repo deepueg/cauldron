@@ -48,6 +48,9 @@
                 {
                   "name": "github",
                   "url": "git@github.com:deepueg/android-container.git"
+                },
+                {
+                  "name": "jcenter"
                 }
               ]
             }
