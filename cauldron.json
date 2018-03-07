@@ -20,9 +20,9 @@
               "isReleased": false,
               "binary": null,
               "yarnlock": "b6ee3d6150ae4d66102a589d38acfe2a645eb414",
-              "containerVersion": "1.0.64",
+              "containerVersion": "1.0.65",
               "yarnLocks": {
-                "container": "2711fa8110bdb62df3d9bd2c2b2ce4a6949b845c"
+                "container": "a77d4cd1ece64a5c49be8c5519778d2f4edc8dd9"
               },
               "container": {
                 "nativeDeps": [
@@ -34,7 +34,7 @@
                   "react-native@0.54.0"
                 ],
                 "miniApps": [
-                  "movielistminiapp@0.0.10"
+                  "movielistminiapp@0.0.12"
                 ],
                 "jsApiImpls": []
               }
@@ -42,7 +42,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.64",
+              "containerVersion": "1.0.65",
               "publishers": [
                 {
                   "name": "github",
